@@ -12,9 +12,9 @@
 - 💼 work as a Senior DevOps Engineer
 - 🎓 got master's degree at V.Dahl East Ukraine University
 
-## ⬆ What technologies do I use
+## ⬆ What I use at work
 
-- Bash, Python, GoLang, HCL, YAML
+- Bash, Python, Go, TS, HCL, YAML
 - AWS & Azure cloud management
 - CF, Terraform, Kubernetes, ArgoCD
 - GitHub Actions, GitLab, Azure DevOps
@@ -22,9 +22,9 @@
 
 ## 📫 How to reach me:
 
-1. ⚡ You can reach me at the email in profile.
-2. ⚡ Follow my socials!
+- ⚡ You can reach me at the email in profile.
+- ⚡ Follow my socials!
 
-> [<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/linkedin.png" height="40em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/levpa)
-[<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/xlogo.png" height="40em" align="center" alt="X" title="X"/>](https://x.com/levapas)
-[<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/instagram.svg" height="40em" align="center" alt="Instagram" title="Instagram"/>](https://www.instagram.com/lev.uzh)
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/linkedin.png" height="30em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/levpa)
+&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/xlogo.png" height="30em" align="center" alt="X" title="X"/>](https://x.com/levapas)
+&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/instagram.svg" height="30em" align="center" alt="Instagram" title="Instagram"/>](https://www.instagram.com/lev.uzh)
