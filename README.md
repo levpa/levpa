@@ -9,14 +9,14 @@
 ## 🧑 About me
 
 - ⛺ hike, swim and play guitar
-- 📆 work as a Senior DevOps Engineer
-- ⭐ got master's degree at V.Dahl East Ukraine University
+- 📆 working as a Senior DevOps Engineer
+- ⭐ got master's degree at V.Dahl Ukraine University
 
 ## 📚 What I use at work
 
 - Bash, Python, Go, TS, HCL, YAML
 - AWS & Azure cloud management
-- CF, Terraform, Kubernetes, ArgoCD
+- Pulumi, Terraform, Kubernetes, ArgoCD
 - GitHub Actions, GitLab, Azure DevOps
 - DRY, KISS, YAGNI, SOLID, 12 Factor
 
@@ -24,7 +24,6 @@
 
 - ⚡ Need help? Do reach, [my email](mailto:ceo@levarc.com)
 - ⚡ Follow my socials:
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/linkedin.png" height="30em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://www.linkedin.com/in/levpa)
 &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/xlogo.png" height="30em" align="center" alt="X" title="X"/>](https://x.com/levapas)
@@ -34,5 +33,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/levpa/levpa/main/socials/bmc-red.png" height="40em" align="center" alt="Buy Me A Coffee" title="Buy Me A Coffee"/>](https://buymeacoffee.com/levpa)
 
-## 📈 My GitHub stats
+## ✍ My GitHub stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=levpa&show_icons=true&theme=merko" alt="levpa" />
+
+<p align="center"> <img align="center" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levpa&layout=pie&theme=merko&langs_count=6&hide=html,css,makefile,dockerfile" alt="levpa" />
