@@ -16,7 +16,10 @@ git add . && git commit -m " Readme.md fixes here "
 
 # bump tag version
 VERSION=`git describe --tags --abbrev=0 | awk -F. '{OFS="."; $NF+=1; print $0}'`
+
+echo " New release version is: $VERSION "
 git tag -a $VERSION -m "new release $VERSION"
+git tag -n10
 
 # push commit and tag
 git push --atomic origin main $VERSION
